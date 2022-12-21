@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rehan Maulana
-- 👀 I’m interested in Fullstack Web Developer
+- 👀 I’m interested in Front-End Web Developer
 - 🌱 I’m currently learning JavaScript , PHP , and Python 
 - 📫 Keep Learning 
 
